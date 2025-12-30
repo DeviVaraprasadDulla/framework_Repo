@@ -15,6 +15,7 @@ public class LoginPageTest {
 	@Test
 	public void createUser() {
 		System.out.println("User Sign up method from Login Test");
+		System.out.println("Thank's for Creating your account.");
 	}
 
 }
